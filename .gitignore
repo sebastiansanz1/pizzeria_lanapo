@@ -1,0 +1,14 @@
+# Archivos de configuración local y credenciales
+.env
+
+# Archivos del editor
+.vscode/
+.idea/
+
+# Logs y temporales del servidor local
+*.log
+*.tmp
+
+# Archivos basura del sistema operativo (macOS y Windows)
+.DS_Store
+Thumbs.db
