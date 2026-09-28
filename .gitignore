@@ -1,14 +1,23 @@
-# Archivos de configuración local y credenciales
+# Credenciales y configuracion local
 .env
+servicio-usuarios/conexion.php
 
-# Archivos del editor
+# Dependencias
+node_modules/
+vendor/
+
+# Compilados
+bin/
+obj/
+
+# Editor
 .vscode/
 .idea/
 
-# Logs y temporales del servidor local
+# Logs y temporales
 *.log
 *.tmp
 
-# Archivos basura del sistema operativo (macOS y Windows)
+# Sistema operativo
 .DS_Store
 Thumbs.db
